@@ -20,7 +20,7 @@ portfolio/
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## 🚀 Teknologi yang Digunakan
 
 | Teknologi | Keterangan |
 |---|---|
